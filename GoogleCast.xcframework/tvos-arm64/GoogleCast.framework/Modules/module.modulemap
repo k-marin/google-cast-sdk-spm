@@ -1,0 +1,4 @@
+framework module GoogleCast {
+  header "GoogleCast-Swift.h"
+  requires objc
+}
